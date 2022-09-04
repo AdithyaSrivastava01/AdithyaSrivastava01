@@ -11,7 +11,7 @@ About Me
 
 -👯 I’m looking to collaborate on Deep Learning for Medical Image Analysis
 
-
+![Adithya's github stats](https://github-readme-stats.vercel.app/api?username=AdithyaSrivastava01&layout=compact&theme=dark&show_icons=true&count_private=true)
 
 ### My Skills
 
