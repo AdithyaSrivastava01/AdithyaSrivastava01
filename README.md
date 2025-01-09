@@ -11,7 +11,7 @@ About Me
 
 -👯 I’m looking to collaborate on Deep Learning for Medical Image Analysis
 
-![LeetCode Stats ](https://leetcard.jacoblin.cool/adithya_01?border=0&radius=20)
+![LeetCode Stats ](https://leetcard.jacoblin.cool/adithya_01?ext=heatmap)
 
 
 ![Adithya's github stats](https://github-readme-stats.vercel.app/api?username=AdithyaSrivastava01&layout=compact&theme=dark&show_icons=true&count_private=true)
