@@ -9,10 +9,10 @@ About Me
 
 -🌱 I’m currently learning to develop RAG pipelines and fine-tune state-of-the-art HuggingFace models
 
--👯I’m looking to collaborate on Gen AI projects, specifically in areas like autonomous agent systems, generative models for personalized healthcare, and adaptive learning in dynamic environments.
+-👯 I’m looking to collaborate on Gen AI projects, specifically in areas like autonomous agent systems, generative models for personalized healthcare, and adaptive learning in dynamic environments.
 
 ## LeetCode Stats
-![LeetCode Stats ](https://leetcard.jacoblin.cool/adithya_01?ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/adithya_01?ext=heatmap)
 
 
 ![Adithya's github stats](https://github-readme-stats.vercel.app/api?username=AdithyaSrivastava01&layout=compact&theme=dark&show_icons=true&count_private=true)
