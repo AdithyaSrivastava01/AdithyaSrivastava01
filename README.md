@@ -11,7 +11,7 @@ About Me
 
 -👯I’m looking to collaborate on Gen AI projects, specifically in areas like autonomous agent systems, generative models for personalized healthcare, and adaptive learning in dynamic environments.
 
-##LeetCode Stats
+## LeetCode Stats
 ![LeetCode Stats ](https://leetcard.jacoblin.cool/adithya_01?ext=heatmap)
 
 
