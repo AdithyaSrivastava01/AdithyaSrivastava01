@@ -3,14 +3,15 @@
 
 About Me
 
--🎓 pursuing Masters in Computer Engineering at University of Southern California
+-🎓 pursuing Master's in Computer Engineering at the University of Southern California
 
--🔭 I’m currently working on Generative AI and Data Science projects
+-🔭 I’m currently working on Generative AI and Agentic AI projects
 
 -🌱 I’m currently learning to develop RAG pipelines and fine-tune state-of-the-art HuggingFace models
 
--👯 I’m looking to collaborate on Deep Learning for Medical Image Analysis
+-👯I’m looking to collaborate on Gen AI projects, specifically in areas like autonomous agent systems, generative models for personalized healthcare, and adaptive learning in dynamic environments.
 
+##LeetCode Stats
 ![LeetCode Stats ](https://leetcard.jacoblin.cool/adithya_01?ext=heatmap)
 
 
