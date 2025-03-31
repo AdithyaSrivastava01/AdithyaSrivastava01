@@ -3,7 +3,7 @@
 
 About Me
 
--🎓 pursuing Master's in Computer Engineering at the University of Southern California
+-🎓 I'm pursuing Master's in Computer Science at the University of Southern California
 
 -🔭 I’m currently working on Generative AI and Agentic AI projects
 
