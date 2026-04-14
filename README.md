@@ -17,6 +17,9 @@ About Me
 
 ![Adithya's github stats](https://github-readme-stats.vercel.app/api?username=AdithyaSrivastava01&layout=compact&theme=dark&show_icons=true&count_private=true)
 
+### GitHub Views
+![](https://komarev.com/ghpvc/?username=AdithyaSrivastava01&color=green)
+
 ### My Skills
 
 <div>
